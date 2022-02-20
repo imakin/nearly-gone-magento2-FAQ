@@ -1,19 +1,8 @@
-[![Latest Stable Version](https://poser.pugx.org/mageprince/module-faq/v)](//packagist.org/packages/mageprince/module-faq)
-[![Total Downloads](https://poser.pugx.org/mageprince/module-faq/downloads)](//packagist.org/packages/mageprince/module-faq)
-[![Monthly Downloads](https://poser.pugx.org/mageprince/module-faq/d/monthly)](//packagist.org/packages/mageprince/module-faq)
-[![License](https://poser.pugx.org/mageprince/module-faq/license)](//packagist.org/packages/mageprince/module-faq)
-[![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/mageprince/magento2-FAQ/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/mageprince/magento2-FAQ/?branch=master)
-[![Code Intelligence Status](https://scrutinizer-ci.com/g/mageprince/magento2-FAQ/badges/code-intelligence.svg?b=master)](https://scrutinizer-ci.com/code-intelligence)
-
-
-
 # Magento 2 FAQ
 
 This module adds an easy way to use FAQ section to your Magento store with jQuery Accordion. In this module, admin can add and update FAQ. Admin can also create FAQ group with group icon. Admin can add widgets, blocks, images etc. in FAQ answer with wyswing editor.
 
-# Magento Marketplace
-
-https://marketplace.magento.com/prince-module-faq.html
+<h3><a href="https://marketplace.magento.com/prince-module-faq.html">Download</a></h3>
 
 
 # New Features
@@ -42,17 +31,7 @@ https://marketplace.magento.com/prince-module-faq.html
 
 # Installation Instruction
 
-* Copy the content of the repo to the Magento 2 app/code/Mageprince/Faq
-* Run command:
-<b>php bin/magento setup:upgrade</b>
-* Run Command:
-<b>php bin/magento setup:static-content:deploy</b>
-* Now Flush Cache: <b>php bin/magento cache:flush</b>
-
-
-# Contribution
-
-Want to contribute to this extension? The quickest way is to <a href="https://help.github.com/articles/about-pull-requests/">open a pull request</a> on GitHub.
+<a href="https://devdocs.magento.com/extensions/install/" target="_blank">Installation Guide</a>
 
 # Support
 
@@ -61,8 +40,8 @@ If you encounter any problems or bugs, please <a href="https://github.com/magepr
 
 # Frontend
 
-<img src="https://marketplace.magento.com/media/catalog/product/2/4/243f_1_faq_page.jpg" height="600"/>
-<img src="https://marketplace.magento.com/media/catalog/product/5/b/5bd6_3_widget.jpg" height="600"/>
+<img src="https://marketplace.magento.com/media/catalog/product/a/a/aa9d_1_faq_page.jpg" height="600"/>
+<img src="https://marketplace.magento.com/media/catalog/product/e/7/e7d4_3_widget.jpg" height="600"/>
 
 # Widget
 
